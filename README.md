@@ -4,12 +4,12 @@ REST API sederhana untuk sistem manajemen tugas (todo list) dengan authenticatio
 
 ## 📋 Fitur
 
-✅ **CRUD Operations** - Create, Read, Update, Delete todos  
-✅ **JWT Authentication** - Secure endpoints dengan token  
-✅ **Input Validation** - Validasi data yang ketat  
-✅ **Error Handling** - Response error yang terstruktur  
-✅ **Swagger/OpenAPI Docs** - Interactive API documentation  
-✅ **User Registration & Login** - Sistem authentication lengkap
+ **CRUD Operations** - Create, Read, Update, Delete todos  
+ **JWT Authentication** - Secure endpoints dengan token  
+ **Input Validation** - Validasi data yang ketat  
+ **Error Handling** - Response error yang terstruktur  
+ **Swagger/OpenAPI Docs** - Interactive API documentation  
+ **User Registration & Login** - Sistem authentication lengkap
 
 ## 🚀 Quick Start
 
